@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cyan-100: hsl(193, 38%, 86%);
+    --green-500: hsl(150, 100%, 66%);
+
+    --gray-700: hsl(217, 19%, 38%);
+    --gray-800: hsl(217, 19%, 24%);
+    --gray-900: hsl(218, 23%, 16%);
+
+}
