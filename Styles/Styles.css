@@ -1,0 +1,62 @@
+.container {
+    height: 100vh;
+
+    background: var(--gray-900);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0 15rem;
+
+    overflow: hidden;
+}
+
+.container .wrapper {
+    max-width: 35rem;
+    background: var(--gray-800);
+
+    padding: 3rem;
+    border-radius: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .wrapper p {
+    color: var(--green-500);
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+
+    margin-bottom: 1rem;
+}
+
+.container .wrapper blockquote {
+    color: var(--cyan-100);
+
+    font-size: 1.70rem;
+    font-weight: 800;
+
+    text-align: center;
+
+    margin-bottom: 2rem;
+}
+
+.container .wrapper button[type="button"] {
+    height: 4rem;
+    width: 4rem;
+
+    background: var(--green-500);
+
+    border: 0;
+    border-radius: 4rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 2rem;
+    margin-bottom: -5rem;
+}
