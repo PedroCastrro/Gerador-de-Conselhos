@@ -28,11 +28,9 @@ Pré-requisitos: npm / yarn
 # entrar na pasta do projeto front end web
 cd Gerador-de-Conselhos
 
-# instalar dependências
-yarn install
 
 # executar o projeto
-yarn start
+npm start
 ```
 
 # Autor
