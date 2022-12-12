@@ -23,7 +23,6 @@ A aplicação consiste em uma landing page de geração de frases para o dia a d
 ## Front end web
 Pré-requisitos: npm / yarn
 
-```bash
 
 # entrar na pasta do projeto front end web
 cd Gerador-de-Conselhos
@@ -31,9 +30,8 @@ cd Gerador-de-Conselhos
 
 # executar o projeto
 npm start
-```
 
-# Autor
+# Author
 
 -Pedro Gustavo de Castro
 https://www.linkedin.com/in/pedrocastro2/
